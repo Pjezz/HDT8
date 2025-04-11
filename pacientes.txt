@@ -1,0 +1,14 @@
+Maria Ramirez, apendicitis aguda, A  
+Carlos Gomez, dolor torácico intenso, A  
+Ana Martinez, dificultad respiratoria severa, A  
+Luisa Fernandez, convulsiones recurrentes, A  
+Miguel Angel Cruz, traumatismo craneal, A  
+Carmen Sarmientos, dolores de parto, B  
+Roberto Castro, quemaduras de tercer grado, B  
+Diego Silva, reacción alérgica grave, B  
+Juan Perez, fractura de pierna, C  
+Jorge Navarro, herida profunda en brazo, C  
+Sofia Diaz, fiebre alta persistente, D  
+Valeria Rios, intoxicación alimentaria, D  
+Lorenzo Toledo, chikunguya, E  
+Pedro Rojas, esguince de tobillo, E  
